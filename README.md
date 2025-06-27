@@ -20,9 +20,4 @@ This is a simple Python-based cybersecurity tool that lets you:
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1. Clone or Download
-```bash
-git clone https://github.com/your-username/password-tool.git
-cd password-tool
